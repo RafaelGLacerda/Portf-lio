@@ -52,20 +52,20 @@ const Projects: React.FC = () => {
           </div>
         </div>
         
-        {/* Projeto Random LOL All Champion */}
+        {/* biblioteca de filmes */}
         <div className="p-6 bg-gray-400 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-          <h3 className="text-xl font-bold mb-2 text-gray-800">Random LOL All Champion</h3>
-          <p className="text-gray-800">Jogo para escolher um campeão, Runa, Lane e build totalmente aleatórios de League of Legends, permitindo aos jogadores testarem coisas novas.</p>
+          <h3 className="text-xl font-bold mb-2 text-gray-800">Movies Library</h3>
+          <p className="text-gray-800">Um site bem estilizado para acessar informações de filmes, sendo elas sua duração, orçamento, receita, e etc.</p>
           <div className="mt-4">
             <a 
-              href="https://github.com/RafaelGLacerda/random_lol_all_champion" 
+              href="https://github.com/RafaelGLacerda/Movies-Library" 
               className="text-blue-500 hover:text-blue-700"
               target="_blank"
               rel="noopener noreferrer">
               Ver no GitHub
             </a> | 
             <a 
-              href="https://rafaelglacerda.github.io/random_lol_all_champion/" 
+              href="https://yourmovielibrary.netlify.app/" 
               className="text-blue-500 hover:text-blue-700 ml-2"
               target="_blank"
               rel="noopener noreferrer">
