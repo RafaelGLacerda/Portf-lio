@@ -80,15 +80,16 @@ const Projects: React.FC = () => {
           </div>
         </div>
 
-        {/* Pixel Python */}
-        <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-          <h3 className="text-xl font-bold mb-2 text-gray-100">Pixel Python</h3>
-          <p className="text-gray-100">Jogo estilo Soulslike feito em Python com a biblioteca Pygame.</p>
+       {/* Tasks */}
+       <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition duration-300">
+          <h3 className="text-xl font-bold mb-2 text-gray-100">Tasks</h3>
+          <p className="text-gray-100">Um sistema de gerenciamento de tarefas.</p>
           <div className="mt-4">
-            <a href="https://github.com/RafaelGLacerda/PixelPython" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a>
+            <a href="https://github.com/RafaelGLacerda/Tasks?tab=readme-ov-file" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> |
+            <a href="https://tasks-hbdt.onrender.com/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Demo ao vivo</a>
           </div>
         </div>
-      </div>
+        </div>
     </section>
   );
 };
