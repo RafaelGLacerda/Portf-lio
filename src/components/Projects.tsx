@@ -73,10 +73,11 @@ const Projects: React.FC = () => {
         {/* Costs Service */}
         <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition duration-300">
           <h3 className="text-xl font-bold mb-2 text-gray-100">Costs Service</h3>
-          <p className="text-gray-100">Aplicação para gerenciamento de projetos com controle de custos.</p>
+          <p className="text-gray-100"> Sistema voltado ao gerenciamento de Serviços e Orçamentos.</p>
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/costs_project" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> |
-            <a href="https://costsservice.netlify.app/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Demo ao vivo</a>
+            <a href="https://costs-api-i62v.onrender.com" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">API</a> |
+            <a href="https://costs-project.onrender.com" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Site</a>
           </div>
         </div>
 
