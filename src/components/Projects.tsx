@@ -36,7 +36,7 @@ const Projects: React.FC = () => {
           <p className="text-gray-100">Aplicação de e-commerce que permite aos usuários navegar e comprar produtos com uma interface simples e intuitiva.</p>
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/StoreProject" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> | 
-            <a href="https://rafaelglacerda.github.io/StoreProject/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Demo ao vivo</a>
+            <a href="https://rafaelglacerda.github.io/StoreProject/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">WebSite</a>
           </div>
         </div>
 
@@ -46,7 +46,7 @@ const Projects: React.FC = () => {
           <p className="text-gray-100">Um site bem estilizado para acessar informações de filmes, como duração, orçamento e receita.</p>
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/Movies-Library" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> | 
-            <a href="https://yourmovielibrary.netlify.app/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Demo ao vivo</a>
+            <a href="https://yourmovielibrary.netlify.app/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">WebSite</a>
           </div>
         </div>
 
@@ -56,7 +56,7 @@ const Projects: React.FC = () => {
           <p className="text-gray-100">Aplicação que permite upload de imagens, construída com Node.js no back-end.</p>
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/GaleriaRender" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> |
-            <a href="https://galeriarender-qnwf.onrender.com/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Demo ao vivo</a>
+            <a href="https://galeriarender-qnwf.onrender.com/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">WebSite</a>
           </div>
         </div>
 
@@ -66,7 +66,7 @@ const Projects: React.FC = () => {
           <p className="text-gray-100">Projeto de conscientização e gamificação voltado à sustentabilidade urbana.</p>
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/ReciclaSalvador" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> |
-            <a href="https://reciclasalvador.netlify.app/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Demo ao vivo</a>
+            <a href="https://reciclasalvador.netlify.app/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">WebSite</a>
           </div>
         </div>
 
@@ -77,7 +77,7 @@ const Projects: React.FC = () => {
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/costs_project" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> |
             <a href="https://costs-api-i62v.onrender.com" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">API</a> |
-            <a href="https://costs-project.onrender.com" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Site</a>
+            <a href="https://costs-project.onrender.com" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">WebSite</a>
           </div>
         </div>
 
@@ -87,7 +87,7 @@ const Projects: React.FC = () => {
           <p className="text-gray-100">Um sistema de gerenciamento de tarefas.</p>
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/Tasks?tab=readme-ov-file" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> |
-            <a href="https://tasks-hbdt.onrender.com/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">Demo ao vivo</a>
+            <a href="https://tasks-hbdt.onrender.com/" className="text-blue-500 hover:text-blue-700 ml-2" target="_blank" rel="noopener noreferrer">WebSite</a>
           </div>
         </div>
         </div>
