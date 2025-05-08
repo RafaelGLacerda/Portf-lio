@@ -93,7 +93,7 @@ const Projects: React.FC = () => {
         
      {/* EasyBuniness */}
         <div className="p-6 bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-          <h3 className="text-xl font-bold mb-2 text-gray-100">Costs Service</h3>
+          <h3 className="text-xl font-bold mb-2 text-gray-100">EasyBuniness</h3>
           <p className="text-gray-100"> Sistema voltado ao gerenciamento de Serviços e Orçamentos.</p>
           <div className="mt-4">
             <a href="https://github.com/RafaelGLacerda/EasyBuniness" className="text-blue-500 hover:text-blue-700" target="_blank" rel="noopener noreferrer">Ver no GitHub</a> |
