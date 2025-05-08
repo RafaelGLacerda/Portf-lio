@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Portfolio Link](https://portfoliorafaelglacerda.netlify.app/).
+[Portfolio Link](https://portfoliorafaelglacerda.netlify.app/).
 
 ## Available Scripts
 
